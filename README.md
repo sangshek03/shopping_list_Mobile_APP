@@ -6,8 +6,8 @@ Welcome to the Shopping List App project! This Flutter app is designed to make y
 
 ## Snapshots
 
-<img src="https://github.com/sangshek03/shopping_list_Mobile_APP/assets/110192004/5daf1231-a72f-454e-849f-1c2f6cf1dfd7" width="300">
-<img src="https://github.com/sangshek03/shopping_list_Mobile_APP/assets/110192004/8034b4f7-f3f5-4ca0-9544-42ebcb18e876" width="300">
+<img src="https://github.com/sangshek03/shopping_list_Mobile_APP/assets/110192004/48a99fe7-807b-4c71-95d8-a91821f3331a" width="300">
+<img src="https://github.com/sangshek03/shopping_list_Mobile_APP/assets/110192004/5ea84b30-c2b6-40e3-928c-7f552191ab11" width="300">
 
 ## Getting Started
 
