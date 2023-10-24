@@ -4,6 +4,11 @@
 
 Welcome to the Shopping List App project! This Flutter app is designed to make your grocery shopping experience hassle-free. With Firebase as the backend storage solution and a REST API, this app enables users to add, delete, and manage a wide range of grocery items, including vegetables, dairy products, chocolate, meat, spices, fruits, and much more. This ReadMe will guide you through the project structure, highlight key features, and provide insights on how to use and contribute to this app.
 
+## Snapshots
+
+<img src="https://github.com/sangshek03/shopping_list_Mobile_APP/assets/110192004/5daf1231-a72f-454e-849f-1c2f6cf1dfd7" width="300">
+<img src="https://github.com/sangshek03/shopping_list_Mobile_APP/assets/110192004/8034b4f7-f3f5-4ca0-9544-42ebcb18e876" width="300">
+
 ## Getting Started
 
 To get started with this project, follow these steps:
